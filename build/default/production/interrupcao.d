@@ -1,1 +1,0 @@
- build/default/production/interrupcao.d  build/default/production/interrupcao.p1:  interrupcao.c
